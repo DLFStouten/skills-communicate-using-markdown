@@ -5,6 +5,10 @@
 
 
 ``` javascript
-var vraag = "Pilsie?";
-var antwoord = "Ja tuurlijk!";
+var vraag = "Beer?";
+var antwoord = "Of course!";
 ```
+
+## Important checklist
+- [x] Asked who wants beer
+- [ ] Got beer
